@@ -127,9 +127,7 @@ Working on real-world web applications by collaborating with developers and seni
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad_Najaf&theme=dark" width="60%">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Muhammad_Najaf&theme=dark)](https://git.io/streak-stats)
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad_Najaf&theme=dark" alt="GitHub Streak" /></a>
 
 ---
 
