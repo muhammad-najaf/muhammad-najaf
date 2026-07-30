@@ -123,25 +123,17 @@ Working on real-world web applications by collaborating with developers and seni
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad_Najaf&theme=dark" alt="GitHub Streak" /></a>
-
----
-
 # 🌐 Connect With Me
 
 - [LinkedIn](youremail@example.com)
 - Portfolio
-- Email
+- [Email](muhammadnajaf39@gmail.com)
 
 ---
 
 # 📫 Contact
 
-📧 youremail@example.com
+📧 muhammadnajaf39@gmail.com
 
 ---
 
