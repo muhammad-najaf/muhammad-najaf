@@ -133,7 +133,7 @@ Working on real-world web applications by collaborating with developers and seni
 
 # 🌐 Connect With Me
 
-- LinkedIn
+- [LinkedIn](youremail@example.com)
 - Portfolio
 - Email
 
