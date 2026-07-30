@@ -125,9 +125,8 @@ Working on real-world web applications by collaborating with developers and seni
 
 # 🌐 Connect With Me
 
-- [LinkedIn](youremail@example.com)
+- [LinkedIn]()
 - Portfolio
-- [Email](muhammadnajaf39@gmail.com)
 
 ---
 
